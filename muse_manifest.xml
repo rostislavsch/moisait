@@ -1,0 +1,285 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ya.com" resolutions="1x" timestamp="1535139236265">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="travel.css" crc="334519122" ref="travel"/>
+    <file name="nomq_travel.css" crc="274476573" ref="travel"/>
+    <file name="ya.css" crc="4283327280" ref="ya"/>
+    <file name="nomq_ya.css" crc="79635562" ref="ya"/>
+    <file name="hate.css" crc="3954857413" ref="hate"/>
+    <file name="nomq_hate.css" crc="232413688" ref="hate"/>
+    <file name="index.css" crc="391399663" ref="index"/>
+    <file name="nomq_index.css" crc="455065178" ref="index"/>
+    <file name="love.css" crc="497293542" ref="love"/>
+    <file name="nomq_love.css" crc="4091465235" ref="love"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>ya:phone>hate:phone>love:phone>travel:index:ya:travel:love:hate"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>ya:phone>hate:phone>love:phone>travel:index:ya:travel:love:hate"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>ya:phone>hate:phone>love:phone>travel:index:ya:travel:love:hate"/>
+    <file name="museconfig.js" crc="4153641093" ref="phone>index:phone>ya:phone>hate:phone>love:phone>travel:index:ya:travel:love:hate"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>ya:phone>hate:phone>love:phone>travel:index:ya:travel:love:hate"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>ya:phone>hate:phone>love:phone>travel:index:ya:travel:love:hate"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:ya:travel:love:hate"/>
+  </folder>
+  <folder name="images">
+    <file name="rostislav.s-favicon.ico" crc="3936835358" ref="phone>index"/>
+    <file name="56249fd158033380601537_750-crop-u2216.jpg" crc="305763602" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="v_r3o8q5pru282x126.jpg" crc="242079364" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2274060-crop-u2222.jpg" crc="4123495838" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="f6a690ecb24011e68a5b525400c97e52-crop-u2224.jpg" crc="23406927" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2226-4.png" crc="4232079121" ref="phone>index"/>
+    <file name="u2227-4.png" crc="4240525136" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index:ya:travel:love:hate"/>
+    <file name="u2228_states.png" crc="365086142" ref="phone>index"/>
+    <file name="u2228_states-r.png" crc="4288556059" ref="phone>index"/>
+    <file name="u2229-4.png" crc="300337506" ref="phone>index"/>
+    <file name="u2230-4.png" crc="465723409" ref="phone>index"/>
+    <file name="u2231_states.png" crc="3820193532" ref="phone>index"/>
+    <file name="u2231_states-r.png" crc="3962035491" ref="phone>index"/>
+    <file name="u2232_states.png" crc="4103598188" ref="phone>index"/>
+    <file name="u2232_states-r.png" crc="4111557215" ref="phone>index"/>
+    <file name="u2233_states.png" crc="412676486" ref="phone>index"/>
+    <file name="u2233_states-r.png" crc="172042629" ref="phone>index"/>
+    <file name="u2234.png" crc="4055340354" ref="phone>index"/>
+    <file name="u2234-r.png" crc="92972398" ref="phone>index"/>
+    <file name="u2235_states.png" crc="101259291" ref="phone>index"/>
+    <file name="u2235_states-r.png" crc="3814252835" ref="phone>index"/>
+    <file name="u2236_states.png" crc="218169447" ref="phone>index"/>
+    <file name="u2236_states-r.png" crc="160116564" ref="phone>index"/>
+    <file name="u2237_states.png" crc="136492503" ref="phone>index"/>
+    <file name="u2237_states-r.png" crc="206146442" ref="phone>index"/>
+    <file name="realistic-coca-cola-can-3d-mode546l-obj-3ds-fbx-c4d-u2244.png" crc="3773053010" ref="phone>index"/>
+    <file name="карта-белорусской-ссср-1941-года363x295.jpg" crc="4257503386" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="redpin.png" crc="16856952" seo="true" ref="phone>index:index:travel">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+    </file>
+    <file name="u2238-4.png" crc="4093547897" ref="phone>index"/>
+    <file name="u2220-4.png" crc="160524402" ref="phone>index"/>
+    <file name="u2221-4.png" crc="435660592" ref="phone>index"/>
+    <file name="шаблон-a-favicon.ico" crc="3936835358" ref="phone>ya"/>
+    <file name="56249fd158033380601537_750-crop-u897.jpg" crc="535097542" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="v_r3o8q5pru293x131.jpg" crc="526670393" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2274060.jpg" crc="84968656" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="f6a690ecb24011e68a5b525400c97e52-crop-u106.jpg" crc="4170581856" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u379-4.png" crc="287351303" ref="index"/>
+    <file name="u533-4.png" crc="209095727" ref="index"/>
+    <file name="u565_states.png" crc="3869642479" ref="index"/>
+    <file name="u565_states-r.png" crc="3849261758" ref="index"/>
+    <file name="u636-4.png" crc="4226818525" ref="index"/>
+    <file name="u672-4.png" crc="3849549250" ref="index"/>
+    <file name="u645_states.png" crc="3873354550" ref="index"/>
+    <file name="u645_states-r.png" crc="3921916785" ref="index"/>
+    <file name="u654_states.png" crc="3882692611" ref="index"/>
+    <file name="u654_states-r.png" crc="3791452644" ref="index"/>
+    <file name="u699_states.png" crc="3909741956" ref="index"/>
+    <file name="u699_states-r.png" crc="3836507285" ref="index"/>
+    <file name="u708.png" crc="4040415627" ref="index"/>
+    <file name="u708-r.png" crc="3924720971" ref="index"/>
+    <file name="u574_states.png" crc="4235408461" ref="index"/>
+    <file name="u574_states-r.png" crc="20188837" ref="index"/>
+    <file name="u583_states.png" crc="313523222" ref="index"/>
+    <file name="u583_states-r.png" crc="271252932" ref="index"/>
+    <file name="u592_states.png" crc="138070530" ref="index"/>
+    <file name="u592_states-r.png" crc="4189048970" ref="index"/>
+    <file name="u419-4.png" crc="4178189061" ref="index"/>
+    <file name="карта-белорусской-ссср-1941-года.jpg" crc="95564771" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="realistic-coca-cola-can-3d-mode546l-obj-3ds-fbx-c4d-u450.png" crc="3899343607" ref="index"/>
+    <file name="u428-4.png" crc="3762926107" ref="index"/>
+    <file name="u602-4.png" crc="4121512017" ref="index"/>
+    <file name="56249fd158033380601537_750-crop-u8972.jpg" crc="3795828297" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="v_r3o8q5pru.jpg" crc="4201084438" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u428-42.png" crc="4010944411" ref="index"/>
+    <file name="u602-42.png" crc="3939776644" ref="index"/>
+    <file name="f6a690ecb24011e68a5b525400c97e52-crop-u1062.jpg" crc="3784514719" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u379-42.png" crc="352638842" ref="index"/>
+    <file name="u533-42.png" crc="3880002325" ref="index"/>
+    <file name="u565_states2.png" crc="14925482" ref="index"/>
+    <file name="u565_states-r2.png" crc="42586497" ref="index"/>
+    <file name="u636-42.png" crc="77521917" ref="index"/>
+    <file name="u672-42.png" crc="3895115052" ref="index"/>
+    <file name="u645_states2.png" crc="4166431602" ref="index"/>
+    <file name="u645_states-r2.png" crc="364356797" ref="index"/>
+    <file name="u654_states2.png" crc="483278652" ref="index"/>
+    <file name="u654_states-r2.png" crc="4210785853" ref="index"/>
+    <file name="u699_states2.png" crc="4008441681" ref="index"/>
+    <file name="u699_states-r2.png" crc="108571391" ref="index"/>
+    <file name="u7082.png" crc="4218659361" ref="index"/>
+    <file name="u708-r2.png" crc="4153880001" ref="index"/>
+    <file name="u574_states2.png" crc="4248843601" ref="index"/>
+    <file name="u574_states-r2.png" crc="4285012838" ref="index"/>
+    <file name="u583_states2.png" crc="4212613826" ref="index"/>
+    <file name="u583_states-r2.png" crc="4143334163" ref="index"/>
+    <file name="u592_states2.png" crc="3877759729" ref="index"/>
+    <file name="u592_states-r2.png" crc="237140752" ref="index"/>
+    <file name="u419-42.png" crc="4121892736" ref="index"/>
+    <file name="карта-белорусской-ссср-1941-года453x369.jpg" crc="225322469" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="realistic-coca-cola-can-3d-mode546l-obj-3ds-fbx-c4d-u4502.png" crc="428214122" ref="index"/>
+    <file name="56249fd158033380601537_750-crop-u8973.jpg" crc="305763602" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u428-43.png" crc="160524402" ref="index"/>
+    <file name="u602-43.png" crc="435660592" ref="index"/>
+    <file name="f6a690ecb24011e68a5b525400c97e52-crop-u1063.jpg" crc="23406927" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u379-43.png" crc="4232079121" ref="index"/>
+    <file name="u533-43.png" crc="4172561198" ref="index"/>
+    <file name="u565_states3.png" crc="365086142" ref="index"/>
+    <file name="u565_states-r3.png" crc="4288556059" ref="index"/>
+    <file name="u636-43.png" crc="300337506" ref="index"/>
+    <file name="u672-43.png" crc="465723409" ref="index"/>
+    <file name="u645_states3.png" crc="3820193532" ref="index"/>
+    <file name="u645_states-r3.png" crc="3962035491" ref="index"/>
+    <file name="u654_states3.png" crc="4103598188" ref="index"/>
+    <file name="u654_states-r3.png" crc="4111557215" ref="index"/>
+    <file name="u699_states3.png" crc="412676486" ref="index"/>
+    <file name="u699_states-r3.png" crc="172042629" ref="index"/>
+    <file name="u7083.png" crc="4055340354" ref="index"/>
+    <file name="u708-r3.png" crc="92972398" ref="index"/>
+    <file name="u574_states3.png" crc="101259291" ref="index"/>
+    <file name="u574_states-r3.png" crc="3814252835" ref="index"/>
+    <file name="u583_states3.png" crc="218169447" ref="index"/>
+    <file name="u583_states-r3.png" crc="160116564" ref="index"/>
+    <file name="u592_states3.png" crc="136492503" ref="index"/>
+    <file name="u592_states-r3.png" crc="206146442" ref="index"/>
+    <file name="u419-43.png" crc="4093547897" ref="index"/>
+    <file name="realistic-coca-cola-can-3d-mode546l-obj-3ds-fbx-c4d-u4503.png" crc="3773053010" ref="index"/>
+    <file name="rostiks.jpg" crc="4104041570" seo="true" ref="ya">
+      <caption webpage="ya" alt=""/>
+      <caption webpage="ya" alt=""/>
+      <caption webpage="ya" alt=""/>
+    </file>
+    <file name="u1099-4.png" crc="91285730" ref="ya"/>
+    <file name="u1113-4.png" crc="512372790" ref="ya"/>
+    <file name="u1104-4.png" crc="4165893686" ref="ya"/>
+    <file name="u1162-4.png" crc="363917047" ref="ya"/>
+    <file name="u1793-4.png" crc="98005069" ref="ya"/>
+    <file name="u1136-4.png" crc="131594527" ref="ya"/>
+    <file name="u1137-4.png" crc="4292905807" ref="ya"/>
+    <file name="u1099-42.png" crc="291834509" ref="ya"/>
+    <file name="u1113-42.png" crc="239878346" ref="ya"/>
+    <file name="u1104-42.png" crc="428269484" ref="ya"/>
+    <file name="u1162-42.png" crc="38321394" ref="ya"/>
+    <file name="u1793-42.png" crc="82157821" ref="ya"/>
+    <file name="u1136-42.png" crc="3927569769" ref="ya"/>
+    <file name="u1137-42.png" crc="3923640874" ref="ya"/>
+    <file name="u1099-43.png" crc="3775516039" ref="ya"/>
+    <file name="u1113-43.png" crc="3972010298" ref="ya"/>
+    <file name="u1104-43.png" crc="4208937562" ref="ya"/>
+    <file name="u1162-43.png" crc="4130339428" ref="ya"/>
+    <file name="u1136-43.png" crc="374131360" ref="ya"/>
+    <file name="u1137-43.png" crc="171063338" ref="ya"/>
+    <file name="u1793-43.png" crc="271840303" ref="ya"/>
+    <file name="u1464-4.png" crc="404440527" ref="travel"/>
+    <file name="carte-du-monde-a-telecharger-crop-u1473.jpg" crc="4203552910" seo="true" ref="travel">
+      <caption webpage="travel" alt=""/>
+    </file>
+    <file name="u1464-42.png" crc="51824777" ref="travel"/>
+    <file name="carte-du-monde-a-telecharger-crop-u14732.jpg" crc="3772537440" seo="true" ref="travel">
+      <caption webpage="travel" alt=""/>
+    </file>
+    <file name="u1464-43.png" crc="429166061" ref="travel"/>
+    <file name="carte-du-monde-a-telecharger-crop-u14733.jpg" crc="4060514234" seo="true" ref="travel">
+      <caption webpage="travel" alt=""/>
+    </file>
+    <file name="u1399-4.png" crc="82437894" ref="love"/>
+    <file name="jtg.gif" crc="16604862" seo="true" ref="love">
+      <caption webpage="love" alt=""/>
+      <caption webpage="love" alt=""/>
+      <caption webpage="love" alt=""/>
+    </file>
+    <file name="u1399-42.png" crc="4200904182" ref="love"/>
+    <file name="u1399-43.png" crc="4013352788" ref="love"/>
+    <file name="u1350-4.png" crc="292546964" ref="hate"/>
+    <file name="u1356-4.png" crc="3941796276" ref="hate"/>
+    <file name="u1243-4.png" crc="354235274" ref="hate"/>
+    <file name="151985457119640860-crop-u1246.png" crc="291847294" seo="true" ref="hate">
+      <caption webpage="hate" alt=""/>
+    </file>
+    <file name="u1335-4.png" crc="298748353" ref="hate"/>
+    <file name="u1359-4.png" crc="121507574" ref="hate"/>
+    <file name="u1362-4.png" crc="3762926107" ref="hate"/>
+    <file name="u1363-4.png" crc="4121512017" ref="hate"/>
+    <file name="u1243-42.png" crc="3900870817" ref="hate"/>
+    <file name="u1350-42.png" crc="3992162240" ref="hate"/>
+    <file name="u1356-42.png" crc="4170008350" ref="hate"/>
+    <file name="151985457119640860-crop-u12462.png" crc="3923516682" seo="true" ref="hate">
+      <caption webpage="hate" alt=""/>
+    </file>
+    <file name="u1335-42.png" crc="528281695" ref="hate"/>
+    <file name="u1359-42.png" crc="306793975" ref="hate"/>
+    <file name="u1362-42.png" crc="4504824" ref="hate"/>
+    <file name="u1363-42.png" crc="423609013" ref="hate"/>
+    <file name="u1243-43.png" crc="4277171966" ref="hate"/>
+    <file name="u1350-43.png" crc="417731359" ref="hate"/>
+    <file name="u1356-43.png" crc="368733607" ref="hate"/>
+    <file name="151985457119640860-crop-u12463.png" crc="3894092375" seo="true" ref="hate">
+      <caption webpage="hate" alt=""/>
+    </file>
+    <file name="u1335-43.png" crc="4040998865" ref="hate"/>
+    <file name="u1359-43.png" crc="4198920876" ref="hate"/>
+    <file name="u1362-43.png" crc="3962345543" ref="hate"/>
+    <file name="u1363-43.png" crc="3890251992" ref="hate"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="love.css" crc="62426684" ref="phone>love"/>
+      <file name="index.css" crc="241945196" ref="phone>index"/>
+      <file name="travel.css" crc="62426684" ref="phone>travel"/>
+      <file name="nomq_travel.css" crc="3824530138" ref="phone>travel"/>
+      <file name="hate.css" crc="62426684" ref="phone>hate"/>
+      <file name="ya.css" crc="62426684" ref="phone>ya"/>
+    </folder>
+    <file name="index.html" crc="4081398143" seo="true" mt="1535139128418" redirect="true"/>
+    <file name="ya.html" crc="405739082" seo="true" mt="1535138620969" redirect="false"/>
+    <file name="hate.html" crc="3818262622" seo="true" mt="1535138621009" redirect="false"/>
+    <file name="love.html" crc="4116632591" seo="true" mt="1535138621020" redirect="false"/>
+    <file name="travel.html" crc="524281205" seo="true" mt="1535138621029" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="4185195239" seo="true" mt="1535138621135" redirect="true"/>
+  <file name="ya.html" crc="3885985351" seo="true" mt="1535138621182" redirect="true"/>
+  <file name="travel.html" crc="319366283" seo="true" mt="1535138621313" redirect="true"/>
+  <file name="love.html" crc="304569650" seo="true" mt="1535138621262" redirect="true"/>
+  <file name="hate.html" crc="3809629536" seo="true" mt="1535138621221" redirect="true"/>
+</manifest>
