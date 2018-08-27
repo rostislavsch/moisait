@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://ya.com/index.html</loc>
-    <lastmod>2018-08-25</lastmod>
+    <lastmod>2018-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ya.com/phone/index.html"/>
@@ -14,13 +14,13 @@
       <image:loc>http://ya.com/images/redpin.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ya.com/images/2274060.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://ya.com/images/56249fd158033380601537_750-crop-u897.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://ya.com/images/v_r3o8q5pru293x131.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ya.com/images/9044521582622-crop-u3801.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://ya.com/images/f6a690ecb24011e68a5b525400c97e52-crop-u106.jpg</image:loc>
@@ -30,6 +30,9 @@
     </image:image>
     <image:image>
       <image:loc>http://ya.com/images/v_r3o8q5pru.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ya.com/images/9044521582622-crop-u38012.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://ya.com/images/f6a690ecb24011e68a5b525400c97e52-crop-u1062.jpg</image:loc>
