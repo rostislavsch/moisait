@@ -19,7 +19,13 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>love</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="../css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/love.css?crc=492152295" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/love.css?crc=126290362" id="pagesheet"/>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   var __adobewebfontsappname__ = "muse";
+</script>
+  <!-- JS includes -->
+  <script src="https://webfonts.creativecloud.com/merriweather:n7:all.js" type="text/javascript"></script>
     <!--custom head HTML-->
   <style type="text/css">
 
@@ -32,13 +38,15 @@ body { overflow-x: hidden; }
  <body>
 
   <div class="clearfix borderbox" id="page"><!-- column -->
-   <div class="position_content" id="page_position_content">
-    <img class="colelem" id="u3619-4" alt="Вам все расскажи..." src="../images/u3619-4.png?crc=16076312" data-image-width="380"/><!-- rasterized frame -->
-    <div class="clip_frame colelem" id="u3620"><!-- image -->
-     <img class="block" id="u3620_img" src="../images/jtg.gif?crc=16604862" alt="" data-heightwidthratio="0.8839050131926122" data-image-width="379" data-image-height="335"/>
+   <div class="browser_width colelem" id="u4221-4-bw">
+    <div class="clearfix" id="u4221-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+     <p>Вам все скажи</p>
     </div>
-    <div class="verticalspacer" data-offset-top="397" data-content-above-spacer="397" data-content-below-spacer="70" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
    </div>
+   <div class="clip_frame colelem" id="u3620"><!-- image -->
+    <img class="block" id="u3620_img" src="../images/jtg.gif?crc=16604862" alt="" data-heightwidthratio="0.8839050131926122" data-image-width="379" data-image-height="335"/>
+   </div>
+   <div class="verticalspacer" data-offset-top="397" data-content-above-spacer="397" data-content-below-spacer="70" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -55,6 +63,8 @@ var muse_init=function(){require.config({baseUrl:"../"});require(["jquery","muse
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.resizeHeight('.browser_width');/* resize height */
+Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
