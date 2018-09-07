@@ -1,19 +1,19 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ya.com" resolutions="1x" timestamp="1536177074015">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ya.com" resolutions="1x" timestamp="1536323142669">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="ya.css" crc="138104412" ref="ya"/>
+    <file name="travel.css" crc="255950355" ref="travel"/>
+    <file name="nomq_travel.css" crc="350991451" ref="travel"/>
+    <file name="hate.css" crc="4010411725" ref="hate"/>
+    <file name="nomq_hate.css" crc="4178768480" ref="hate"/>
+    <file name="iefonts_hate.css" crc="3824530138" ref="hate"/>
+    <file name="index.css" crc="3906467756" ref="index"/>
+    <file name="nomq_index.css" crc="4261748357" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="love.css" crc="186892294" ref="love"/>
+    <file name="nomq_love.css" crc="492710132" ref="love"/>
+    <file name="ya.css" crc="165312530" ref="ya"/>
     <file name="nomq_ya.css" crc="3980242428" ref="ya"/>
     <file name="iefonts_ya.css" crc="3824530138" ref="ya"/>
-    <file name="hate.css" crc="173632110" ref="hate"/>
-    <file name="nomq_hate.css" crc="29301092" ref="hate"/>
-    <file name="iefonts_hate.css" crc="3824530138" ref="hate"/>
-    <file name="love.css" crc="22286631" ref="love"/>
-    <file name="nomq_love.css" crc="328457038" ref="love"/>
-    <file name="index.css" crc="3920583995" ref="index"/>
-    <file name="nomq_index.css" crc="4135345952" ref="index"/>
-    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="travel.css" crc="359018674" ref="travel"/>
-    <file name="nomq_travel.css" crc="4277997188" ref="travel"/>
   </folder>
   <folder name="fonts">
     <file name="merriweather-v19-latin-regular.woff" crc="4025181979"/>
@@ -44,7 +44,6 @@
     <file name="f6a690ecb24011e68a5b525400c97e52-crop-u2224.jpg" crc="23406927" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="realistic-coca-cola-can-3d-mode546l-obj-3ds-fbx-c4d-u2244.png" crc="3773053010" ref="phone>index"/>
     <file name="карта-белорусской-ссср-1941-года543x442.jpg" crc="4181320476" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -55,6 +54,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="realistic-coca-cola-can-3d-mode546l-obj-3ds-fbx-c4d-u2244.png" crc="3773053010" ref="phone>index"/>
     <file name="шаблон-a-favicon.ico" crc="3936835358" ref="phone>ya"/>
     <file name="rostiks.jpg" crc="4104041570" seo="true" ref="phone>ya:tablet>ya:ya">
       <caption webpage="ya" alt=""/>
@@ -166,41 +166,41 @@
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="ya.css" crc="3935661256" ref="tablet>ya"/>
-      <file name="index.css" crc="104937987" ref="tablet>index"/>
+      <file name="index.css" crc="4282804821" ref="tablet>index"/>
       <file name="iefonts_index.css" crc="199265647" ref="tablet>index"/>
-      <file name="travel.css" crc="3928034206" ref="tablet>travel"/>
+      <file name="ya.css" crc="3935661256" ref="tablet>ya"/>
+      <file name="travel.css" crc="4233120027" ref="tablet>travel"/>
       <file name="nomq_travel.css" crc="3824530138" ref="tablet>travel"/>
-      <file name="love.css" crc="4129290188" ref="tablet>love"/>
-      <file name="hate.css" crc="4230876333" ref="tablet>hate"/>
+      <file name="hate.css" crc="4028644115" ref="tablet>hate"/>
       <file name="iefonts_hate.css" crc="509978613" ref="tablet>hate"/>
+      <file name="love.css" crc="3990614305" ref="tablet>love"/>
     </folder>
-    <file name="index.html" crc="205795237" seo="true" mt="1536158596575" redirect="true"/>
+    <file name="index.html" crc="4075198807" seo="true" mt="1536158596575" redirect="true"/>
     <file name="ya.html" crc="483413210" seo="true" mt="1536158689330" redirect="true"/>
-    <file name="hate.html" crc="4108645378" seo="true" mt="1536177022093" redirect="true"/>
-    <file name="love.html" crc="4098293284" seo="true" mt="1536158953675" redirect="true"/>
-    <file name="travel.html" crc="3840877033" seo="true" mt="1536158994595" redirect="true"/>
+    <file name="hate.html" crc="4122906027" seo="true" mt="1536177022093" redirect="true"/>
+    <file name="love.html" crc="4224019054" seo="true" mt="1536158953675" redirect="true"/>
+    <file name="travel.html" crc="4259999352" seo="true" mt="1536158994595" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="love.css" crc="62790471" ref="phone>love"/>
-      <file name="hate.css" crc="370084755" ref="phone>hate"/>
+      <file name="hate.css" crc="423982808" ref="phone>hate"/>
       <file name="iefonts_hate.css" crc="466709462" ref="phone>hate"/>
-      <file name="ya.css" crc="114849892" ref="phone>ya"/>
-      <file name="travel.css" crc="170139321" ref="phone>travel"/>
+      <file name="travel.css" crc="4059307736" ref="phone>travel"/>
       <file name="nomq_travel.css" crc="3824530138" ref="phone>travel"/>
-      <file name="index.css" crc="199336727" ref="phone>index"/>
-      <file name="iefonts_index.css" crc="427465218" ref="phone>index"/>
+      <file name="love.css" crc="126290362" ref="phone>love"/>
+      <file name="index.css" crc="3780671166" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="3965289940" ref="phone>index"/>
+      <file name="ya.css" crc="114849892" ref="phone>ya"/>
     </folder>
-    <file name="index.html" crc="4041769914" seo="true" mt="1536159356395" redirect="true"/>
+    <file name="index.html" crc="284736660" seo="true" mt="1536323013664" redirect="true"/>
     <file name="ya.html" crc="4019536441" seo="true" mt="1536159517754" redirect="true"/>
-    <file name="hate.html" crc="4121954477" seo="true" mt="1536159656863" redirect="true"/>
-    <file name="love.html" crc="437338814" seo="true" mt="1536159715991" redirect="true"/>
-    <file name="travel.html" crc="3938731916" seo="true" mt="1536159755897" redirect="true"/>
+    <file name="hate.html" crc="3989048356" seo="true" mt="1536159656863" redirect="true"/>
+    <file name="love.html" crc="4096396013" seo="true" mt="1536159715991" redirect="true"/>
+    <file name="travel.html" crc="3996296474" seo="true" mt="1536159755897" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4081044512" seo="true" mt="1536177070900" redirect="true"/>
-  <file name="ya.html" crc="80827668" seo="true" mt="1536157740507" redirect="true"/>
-  <file name="travel.html" crc="135730354" seo="true" mt="1536158323968" redirect="true"/>
-  <file name="love.html" crc="396898214" seo="true" mt="1536158144592" redirect="true"/>
-  <file name="hate.html" crc="3870073283" seo="true" mt="1536158037854" redirect="true"/>
+  <file name="index.html" crc="3858380686" seo="true" mt="1536177070900" redirect="true"/>
+  <file name="ya.html" crc="334793769" seo="true" mt="1536157740507" redirect="true"/>
+  <file name="travel.html" crc="4044815225" seo="true" mt="1536158323968" redirect="true"/>
+  <file name="love.html" crc="4173988443" seo="true" mt="1536158144592" redirect="true"/>
+  <file name="hate.html" crc="474755710" seo="true" mt="1536158037854" redirect="true"/>
 </manifest>
