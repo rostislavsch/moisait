@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ya.com" resolutions="1x" timestamp="1536323142669">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ya.com" resolutions="1x" timestamp="1536323566026">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="travel.css" crc="255950355" ref="travel"/>
@@ -6,8 +6,8 @@
     <file name="hate.css" crc="4010411725" ref="hate"/>
     <file name="nomq_hate.css" crc="4178768480" ref="hate"/>
     <file name="iefonts_hate.css" crc="3824530138" ref="hate"/>
-    <file name="index.css" crc="3906467756" ref="index"/>
-    <file name="nomq_index.css" crc="4261748357" ref="index"/>
+    <file name="index.css" crc="397100713" ref="index"/>
+    <file name="nomq_index.css" crc="4137770377" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
     <file name="love.css" crc="186892294" ref="love"/>
     <file name="nomq_love.css" crc="492710132" ref="love"/>
@@ -112,42 +112,17 @@
     <file name="v_r3o8q5pru.jpg" crc="4201084438" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u428-4.png" crc="4010944411" ref="index"/>
-    <file name="u602-4.png" crc="3939776644" ref="index"/>
     <file name="9044521582622-crop-u38012.jpg" crc="15860895" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="f6a690ecb24011e68a5b525400c97e52-crop-u1062.jpg" crc="3784514719" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u533-4.png" crc="287445070" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:ya:travel:love:hate"/>
-    <file name="u565_states.png" crc="14925482" ref="index"/>
-    <file name="u565_states-r.png" crc="3949070993" ref="index"/>
-    <file name="u636.png" crc="3840684570" ref="index"/>
-    <file name="u636-r.png" crc="179379872" ref="index"/>
-    <file name="u672.png" crc="18164214" ref="index"/>
-    <file name="u672-r.png" crc="3792500289" ref="index"/>
-    <file name="u645_states.png" crc="4166431602" ref="index"/>
-    <file name="u645_states-r.png" crc="364356797" ref="index"/>
-    <file name="u654_states.png" crc="483278652" ref="index"/>
-    <file name="u654_states-r.png" crc="4210785853" ref="index"/>
-    <file name="u699_states.png" crc="4008441681" ref="index"/>
-    <file name="u699_states-r.png" crc="108571391" ref="index"/>
-    <file name="u708.png" crc="4218659361" ref="index"/>
-    <file name="u708-r.png" crc="4153880001" ref="index"/>
-    <file name="u574_states.png" crc="4248843601" ref="index"/>
-    <file name="u574_states-r.png" crc="4285012838" ref="index"/>
-    <file name="u583_states.png" crc="4212613826" ref="index"/>
-    <file name="u583_states-r.png" crc="4143334163" ref="index"/>
-    <file name="u592_states.png" crc="3877759729" ref="index"/>
-    <file name="u592_states-r.png" crc="237140752" ref="index"/>
-    <file name="u419-4.png" crc="4121892736" ref="index"/>
     <file name="карта-белорусской-ссср-1941-года453x369.jpg" crc="202489368" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="realistic-coca-cola-can-3d-mode546l-obj-3ds-fbx-c4d-u4502.png" crc="6353506" ref="index"/>
-    <file name="u3997-4.png" crc="4194415916" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:ya:travel:love:hate"/>
     <file name="carte-du-monde-a-te4lecharger.jpg" crc="4225274340" seo="true" ref="travel">
       <caption webpage="travel" alt=""/>
     </file>
@@ -198,7 +173,7 @@
     <file name="love.html" crc="4096396013" seo="true" mt="1536159715991" redirect="true"/>
     <file name="travel.html" crc="3996296474" seo="true" mt="1536159755897" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3858380686" seo="true" mt="1536177070900" redirect="true"/>
+  <file name="index.html" crc="332576404" seo="true" mt="1536323493427" redirect="true"/>
   <file name="ya.html" crc="334793769" seo="true" mt="1536157740507" redirect="true"/>
   <file name="travel.html" crc="4044815225" seo="true" mt="1536158323968" redirect="true"/>
   <file name="love.html" crc="4173988443" seo="true" mt="1536158144592" redirect="true"/>
