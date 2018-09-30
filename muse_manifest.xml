@@ -1,19 +1,21 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ya.com" resolutions="1x" timestamp="1536323566026">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ya.com" resolutions="1x" timestamp="1538307822444">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="travel.css" crc="255950355" ref="travel"/>
-    <file name="nomq_travel.css" crc="350991451" ref="travel"/>
-    <file name="hate.css" crc="4010411725" ref="hate"/>
+    <file name="hate.css" crc="4218393673" ref="hate"/>
     <file name="nomq_hate.css" crc="4178768480" ref="hate"/>
     <file name="iefonts_hate.css" crc="3824530138" ref="hate"/>
-    <file name="index.css" crc="397100713" ref="index"/>
-    <file name="nomq_index.css" crc="4137770377" ref="index"/>
-    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="love.css" crc="186892294" ref="love"/>
-    <file name="nomq_love.css" crc="492710132" ref="love"/>
-    <file name="ya.css" crc="165312530" ref="ya"/>
+    <file name="ya.css" crc="518212921" ref="ya"/>
     <file name="nomq_ya.css" crc="3980242428" ref="ya"/>
     <file name="iefonts_ya.css" crc="3824530138" ref="ya"/>
+    <file name="travel.css" crc="4098221841" ref="travel"/>
+    <file name="nomq_travel.css" crc="350991451" ref="travel"/>
+    <file name="graf.css" crc="511196819" ref="graf"/>
+    <file name="nomq_graf.css" crc="356767978" ref="graf"/>
+    <file name="love.css" crc="293111433" ref="love"/>
+    <file name="nomq_love.css" crc="492710132" ref="love"/>
+    <file name="index.css" crc="401683873" ref="index"/>
+    <file name="nomq_index.css" crc="452197746" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="merriweather-v19-latin-regular.woff" crc="4025181979"/>
@@ -21,17 +23,17 @@
     <file name="merriweather-v19-latin-regular.svg" crc="131440025"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>ya:phone>hate:phone>love:phone>travel:tablet>index:tablet>ya:tablet>hate:tablet>love:tablet>travel:index:ya:travel:love:hate"/>
-    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>ya:phone>hate:phone>love:phone>travel:tablet>index:tablet>ya:tablet>hate:tablet>love:tablet>travel:index:ya:travel:love:hate"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>ya:phone>hate:phone>love:phone>travel:tablet>index:tablet>ya:tablet>hate:tablet>love:tablet>travel:index:ya:travel:love:hate"/>
-    <file name="museconfig.js" crc="4153641093" ref="phone>index:phone>ya:phone>hate:phone>love:phone>travel:tablet>index:tablet>ya:tablet>hate:tablet>love:tablet>travel:index:ya:travel:love:hate"/>
-    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>ya:phone>hate:phone>love:phone>travel:tablet>index:tablet>ya:tablet>hate:tablet>love:tablet>travel:index:ya:travel:love:hate"/>
-    <file name="require.js" crc="4157109226" ref="phone>index:phone>ya:phone>hate:phone>love:phone>travel:tablet>index:tablet>ya:tablet>hate:tablet>love:tablet>travel:index:ya:travel:love:hate"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:ya:travel:love:hate"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>ya:phone>hate:phone>love:phone>travel:phone>graf:tablet>index:tablet>ya:tablet>hate:tablet>love:tablet>travel:tablet>graf:index:ya:travel:love:hate:graf"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>ya:phone>hate:phone>love:phone>travel:phone>graf:tablet>index:tablet>ya:tablet>hate:tablet>love:tablet>travel:tablet>graf:index:ya:travel:love:hate:graf"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>ya:phone>hate:phone>love:phone>travel:phone>graf:tablet>index:tablet>ya:tablet>hate:tablet>love:tablet>travel:tablet>graf:index:ya:travel:love:hate:graf"/>
+    <file name="museconfig.js" crc="4153641093" ref="phone>index:phone>ya:phone>hate:phone>love:phone>travel:phone>graf:tablet>index:tablet>ya:tablet>hate:tablet>love:tablet>travel:tablet>graf:index:ya:travel:love:hate:graf"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>ya:phone>hate:phone>love:phone>travel:phone>graf:tablet>index:tablet>ya:tablet>hate:tablet>love:tablet>travel:tablet>graf:index:ya:travel:love:hate:graf"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>ya:phone>hate:phone>love:phone>travel:phone>graf:tablet>index:tablet>ya:tablet>hate:tablet>love:tablet>travel:tablet>graf:index:ya:travel:love:hate:graf"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:ya:travel:love:hate:graf"/>
   </folder>
   <folder name="images">
     <file name="rostislav.s-favicon.ico" crc="3936835358" ref="phone>index"/>
-    <file name="9044521582622-crop-u3875.jpg" crc="3913940384" seo="true" ref="phone>index">
+    <file name="9044521582622-crop-u3875.jpg" crc="4293434609" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="56249fd158033380601537_750-crop-u2216.jpg" crc="91358302" seo="true" ref="phone>index">
@@ -74,7 +76,15 @@
     <file name="carte-du-monde-a-te4lecharger570x299.jpg" crc="45127213" seo="true" ref="phone>travel">
       <caption webpage="travel" alt=""/>
     </file>
-    <file name="9044521582622-crop-u3820.jpg" crc="4018682312" seo="true" ref="tablet>index">
+    <file name="табличка534x308.png" crc="3831210313" seo="true" ref="phone>graf">
+      <caption webpage="graf" alt=""/>
+      <caption webpage="graf" alt=""/>
+    </file>
+    <file name="бомба2.png" crc="3772372294" seo="true" ref="phone>graf:graf">
+      <caption webpage="graf" alt=""/>
+      <caption webpage="graf" alt=""/>
+    </file>
+    <file name="9044521582622-crop-u3820.jpg" crc="109398154" seo="true" ref="tablet>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="56249fd158033380601537_750-crop-u2625.jpg" crc="91358302" seo="true" ref="tablet>index">
@@ -90,13 +100,16 @@
     <file name="carte-du-monde-a-te4lecharger1133x594.jpg" crc="4182144422" seo="true" ref="tablet>travel">
       <caption webpage="travel" alt=""/>
     </file>
+    <file name="бомба2336x336.png" crc="4177409001" seo="true" ref="tablet>graf">
+      <caption webpage="graf" alt=""/>
+    </file>
     <file name="56249fd158033380601537_750-crop-u897.jpg" crc="4020633996" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="v_r3o8q5pru440x196.jpg" crc="3788064750" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="9044521582622-crop-u3801.jpg" crc="388490474" seo="true" ref="index">
+    <file name="9044521582622-crop-u3801.jpg" crc="112696487" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="f6a690ecb24011e68a5b525400c97e52-crop-u106.jpg" crc="4170581856" seo="true" ref="index">
@@ -112,7 +125,7 @@
     <file name="v_r3o8q5pru.jpg" crc="4201084438" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="9044521582622-crop-u38012.jpg" crc="15860895" seo="true" ref="index">
+    <file name="9044521582622-crop-u38012.jpg" crc="4081255573" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="f6a690ecb24011e68a5b525400c97e52-crop-u1062.jpg" crc="3784514719" seo="true" ref="index">
@@ -122,7 +135,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="realistic-coca-cola-can-3d-mode546l-obj-3ds-fbx-c4d-u4502.png" crc="6353506" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:ya:travel:love:hate"/>
+    <file name="blank.gif" crc="4208392903" ref="index:ya:travel:love:hate:graf"/>
     <file name="carte-du-monde-a-te4lecharger.jpg" crc="4225274340" seo="true" ref="travel">
       <caption webpage="travel" alt=""/>
     </file>
@@ -138,44 +151,58 @@
     <file name="151985457119640860-crop-u12463.png" crc="4217994419" seo="true" ref="hate">
       <caption webpage="hate" alt=""/>
     </file>
+    <file name="табличка.png" crc="375890457" seo="true" ref="graf">
+      <caption webpage="graf" alt=""/>
+    </file>
+    <file name="бомба2315x315.png" crc="3820538689" seo="true" ref="graf">
+      <caption webpage="graf" alt=""/>
+    </file>
+    <file name="табличка528x305.png" crc="26036210" seo="true" ref="graf">
+      <caption webpage="graf" alt=""/>
+    </file>
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="index.css" crc="4282804821" ref="tablet>index"/>
-      <file name="iefonts_index.css" crc="199265647" ref="tablet>index"/>
-      <file name="ya.css" crc="3935661256" ref="tablet>ya"/>
+      <file name="graf.css" crc="84364793" ref="tablet>graf"/>
+      <file name="nomq_graf.css" crc="3824530138" ref="tablet>graf"/>
       <file name="travel.css" crc="4233120027" ref="tablet>travel"/>
-      <file name="nomq_travel.css" crc="3824530138" ref="tablet>travel"/>
+      <file name="index.css" crc="4259921310" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="166242085" ref="tablet>index"/>
+      <file name="ya.css" crc="3935661256" ref="tablet>ya"/>
+      <file name="love.css" crc="3990614305" ref="tablet>love"/>
       <file name="hate.css" crc="4028644115" ref="tablet>hate"/>
       <file name="iefonts_hate.css" crc="509978613" ref="tablet>hate"/>
-      <file name="love.css" crc="3990614305" ref="tablet>love"/>
     </folder>
-    <file name="index.html" crc="4075198807" seo="true" mt="1536158596575" redirect="true"/>
+    <file name="index.html" crc="3976733906" seo="true" mt="1538306582739" redirect="true"/>
     <file name="ya.html" crc="483413210" seo="true" mt="1536158689330" redirect="true"/>
     <file name="hate.html" crc="4122906027" seo="true" mt="1536177022093" redirect="true"/>
     <file name="love.html" crc="4224019054" seo="true" mt="1536158953675" redirect="true"/>
     <file name="travel.html" crc="4259999352" seo="true" mt="1536158994595" redirect="true"/>
+    <file name="graf.html" crc="3875122716" seo="true" mt="1538306086390" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
+      <file name="love.css" crc="126290362" ref="phone>love"/>
+      <file name="travel.css" crc="4059307736" ref="phone>travel"/>
+      <file name="graf.css" crc="4172581574" ref="phone>graf"/>
+      <file name="nomq_graf.css" crc="3824530138" ref="phone>graf"/>
       <file name="hate.css" crc="423982808" ref="phone>hate"/>
       <file name="iefonts_hate.css" crc="466709462" ref="phone>hate"/>
-      <file name="travel.css" crc="4059307736" ref="phone>travel"/>
-      <file name="nomq_travel.css" crc="3824530138" ref="phone>travel"/>
-      <file name="love.css" crc="126290362" ref="phone>love"/>
-      <file name="index.css" crc="3780671166" ref="phone>index"/>
-      <file name="iefonts_index.css" crc="3965289940" ref="phone>index"/>
+      <file name="index.css" crc="3825503382" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="3813073900" ref="phone>index"/>
       <file name="ya.css" crc="114849892" ref="phone>ya"/>
     </folder>
-    <file name="index.html" crc="284736660" seo="true" mt="1536323013664" redirect="true"/>
+    <file name="index.html" crc="4051593549" seo="true" mt="1538307501099" redirect="true"/>
     <file name="ya.html" crc="4019536441" seo="true" mt="1536159517754" redirect="true"/>
     <file name="hate.html" crc="3989048356" seo="true" mt="1536159656863" redirect="true"/>
     <file name="love.html" crc="4096396013" seo="true" mt="1536159715991" redirect="true"/>
     <file name="travel.html" crc="3996296474" seo="true" mt="1536159755897" redirect="true"/>
+    <file name="graf.html" crc="3884377975" seo="true" mt="1538306616882" redirect="true"/>
   </folder>
-  <file name="index.html" crc="332576404" seo="true" mt="1536323493427" redirect="true"/>
-  <file name="ya.html" crc="334793769" seo="true" mt="1536157740507" redirect="true"/>
-  <file name="travel.html" crc="4044815225" seo="true" mt="1536158323968" redirect="true"/>
-  <file name="love.html" crc="4173988443" seo="true" mt="1536158144592" redirect="true"/>
-  <file name="hate.html" crc="474755710" seo="true" mt="1536158037854" redirect="true"/>
+  <file name="index.html" crc="4214704195" seo="true" mt="1538305628759" redirect="true"/>
+  <file name="ya.html" crc="383352474" seo="true" mt="1536157740507" redirect="true"/>
+  <file name="travel.html" crc="4018631400" seo="true" mt="1536158323968" redirect="true"/>
+  <file name="love.html" crc="4190582178" seo="true" mt="1536158144592" redirect="true"/>
+  <file name="hate.html" crc="526935783" seo="true" mt="1536158037854" redirect="true"/>
+  <file name="graf.html" crc="4090627023" seo="true" mt="1538306078897" redirect="true"/>
 </manifest>
