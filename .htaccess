@@ -1,3 +1,4 @@
 RewriteEngine On
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.html\ HTTPS/
 RewriteRule ^index\.html$ https://rostislavsch.github.io/moisait/ [R=301,L]
+
