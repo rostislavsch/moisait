@@ -2,116 +2,127 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://ya.com/index.html</loc>
-    <lastmod>2018-09-30</lastmod>
+    <lastmod>2018-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ya.com/phone/index.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://ya.com/tablet/index.html"/>
     <image:image>
-      <image:loc>http://ya.com/images/redpin.png</image:loc>
+      <image:loc>http://ya.com/images/ffc2d114e983d7205fc7debec7f431fe-crop-u2278.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ya.com/images/56249fd158033380601537_750-crop-u897.jpg</image:loc>
+      <image:loc>http://ya.com/images/ffc2d114e983d7205fc7debec7f431fe-crop-u22782.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ya.com/images/v_r3o8q5pru440x196.jpg</image:loc>
+      <image:loc>http://ya.com/images/ffc2d114e983d7205fc7debec7f431fe-crop-u22783.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://ya.com/phone/%D0%B1%D0%B5%D0%B7-%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-7.html</loc>
+    <lastmod>2018-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ya.com/phone/%D0%B1%D0%B5%D0%B7-%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-8.html</loc>
+    <lastmod>2018-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ya.com/progect.html</loc>
+    <lastmod>2018-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ya.com/phone/progect.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://ya.com/tablet/progect.html"/>
     <image:image>
-      <image:loc>http://ya.com/images/9044521582622-crop-u3801.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ya.com/images/f6a690ecb24011e68a5b525400c97e52-crop-u106.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ya.com/images/%D0%BA%D0%B0%D1%80%D1%82%D0%B0-%D0%B1%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B9-%D1%81%D1%81%D1%81%D1%80-1941-%D0%B3%D0%BE%D0%B4%D0%B0.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ya.com/images/56249fd158033380601537_750-crop-u8972.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ya.com/images/v_r3o8q5pru.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ya.com/images/9044521582622-crop-u38012.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ya.com/images/f6a690ecb24011e68a5b525400c97e52-crop-u1062.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ya.com/images/%D0%BA%D0%B0%D1%80%D1%82%D0%B0-%D0%B1%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B9-%D1%81%D1%81%D1%81%D1%80-1941-%D0%B3%D0%BE%D0%B4%D0%B0453x369.jpg</image:loc>
+      <image:loc>http://ya.com/images/maxresdefault.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://ya.com/ya.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2018-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ya.com/phone/ya.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://ya.com/tablet/ya.html"/>
     <image:image>
-      <image:loc>http://ya.com/images/rostiks.jpg</image:loc>
+      <image:loc>http://ya.com/images/get-ios-11s-new-wallpapers-any-phonew1456-crop-u1261.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ya.com/images/get-ios-11s-new-wallpapers-any-phonew1456-crop-u12612.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ya.com/images/get-ios-11s-new-wallpapers-any-phonew1456-crop-u12613.jpg</image:loc>
     </image:image>
   </url>
   <url>
+    <loc>http://ya.com/hate.html</loc>
+    <lastmod>2018-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ya.com/phone/hate.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://ya.com/tablet/hate.html"/>
+  </url>
+  <url>
     <loc>http://ya.com/travel.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2018-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ya.com/phone/travel.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://ya.com/tablet/travel.html"/>
     <image:image>
-      <image:loc>http://ya.com/images/carte-du-monde-a-te4lecharger.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ya.com/images/carte-du-monde-a-te4lecharger923x484.jpg</image:loc>
+      <image:loc>http://ya.com/images/karta-mira-planeta-zemlia-mir1.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://ya.com/love.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2018-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ya.com/phone/love.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://ya.com/tablet/love.html"/>
     <image:image>
-      <image:loc>http://ya.com/images/jtg.gif</image:loc>
+      <image:loc>http://ya.com/images/source.gif</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://ya.com/hate.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <loc>http://ya.com/web.html</loc>
+    <lastmod>2018-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ya.com/phone/hate.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://ya.com/tablet/hate.html"/>
-    <image:image>
-      <image:loc>http://ya.com/images/151985457119640860-crop-u1246.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ya.com/images/151985457119640860-crop-u12462.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ya.com/images/151985457119640860-crop-u12463.png</image:loc>
-    </image:image>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://ya.com/tablet/web.html"/>
   </url>
   <url>
     <loc>http://ya.com/graf.html</loc>
-    <lastmod>2018-09-30</lastmod>
+    <lastmod>2018-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ya.com/phone/graf.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://ya.com/tablet/graf.html"/>
     <image:image>
-      <image:loc>http://ya.com/images/%D0%BD%D0%B52.jpg</image:loc>
+      <image:loc>http://ya.com/images/%D1%81%D1%85%D0%B5%D0%BC%D0%B0%20%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B0%D0%B2%D1%82%D0%BE%D0%B1%D1%83%D1%81%D0%BE%D0%B24%20(2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ya.com/images/%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%87%D0%BA%D0%B02-1.jpg</image:loc>
+      <image:loc>http://ya.com/images/%D0%BD%D0%B52%20(1).jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ya.com/images/%D0%BD%D0%B52392x462.jpg</image:loc>
+      <image:loc>http://ya.com/images/%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%87%D0%BA%D0%B02-12-crop-u3026.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ya.com/images/%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%87%D0%BA%D0%B02-1528x317.jpg</image:loc>
+      <image:loc>http://ya.com/images/%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%87%D0%BA%D0%B02-12-crop-u30262.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://ya.com/images/%D0%BD%D0%B52%20(1)403x475.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ya.com/images/%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%87%D0%BA%D0%B02-12-crop-u30263.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://ya.com/assets/red_pill_blue_pill.webp</loc>
+    <lastmod>2018-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
