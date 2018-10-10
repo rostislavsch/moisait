@@ -1,22 +1,22 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ya.com" resolutions="1x" timestamp="1539197170517">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ya.com" resolutions="1x" timestamp="1539200803596">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="web.css" crc="162572827" ref="web"/>
-    <file name="nomq_web.css" crc="344953410" ref="web"/>
-    <file name="index.css" crc="3781534163" ref="index"/>
-    <file name="nomq_index.css" crc="119133769" ref="index"/>
-    <file name="love.css" crc="3793886227" ref="love"/>
+    <file name="love.css" crc="3837414620" ref="love"/>
     <file name="nomq_love.css" crc="3952872532" ref="love"/>
-    <file name="hate.css" crc="29292027" ref="hate"/>
-    <file name="nomq_hate.css" crc="472639950" ref="hate"/>
-    <file name="progect.css" crc="3853836305" ref="progect"/>
-    <file name="nomq_progect.css" crc="317334272" ref="progect"/>
-    <file name="ya.css" crc="36011912" ref="ya"/>
-    <file name="nomq_ya.css" crc="432897954" ref="ya"/>
-    <file name="graf.css" crc="132935478" ref="graf"/>
-    <file name="nomq_graf.css" crc="493852032" ref="graf"/>
-    <file name="travel.css" crc="3779886833" ref="travel"/>
+    <file name="travel.css" crc="287905614" ref="travel"/>
     <file name="nomq_travel.css" crc="3959334106" ref="travel"/>
+    <file name="hate.css" crc="284510674" ref="hate"/>
+    <file name="nomq_hate.css" crc="472639950" ref="hate"/>
+    <file name="progect.css" crc="102891592" ref="progect"/>
+    <file name="nomq_progect.css" crc="317334272" ref="progect"/>
+    <file name="graf.css" crc="3869830370" ref="graf"/>
+    <file name="nomq_graf.css" crc="493852032" ref="graf"/>
+    <file name="ya.css" crc="494684697" ref="ya"/>
+    <file name="nomq_ya.css" crc="432897954" ref="ya"/>
+    <file name="web.css" crc="9581965" ref="web"/>
+    <file name="nomq_web.css" crc="344953410" ref="web"/>
+    <file name="index.css" crc="329661122" ref="index"/>
+    <file name="nomq_index.css" crc="119133769" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="roboto-black.woff" crc="4130348382"/>
@@ -146,15 +146,15 @@
   </folder>
   <folder name="tablet">
     <folder name="css">
+      <file name="travel.css" crc="350290212" ref="tablet>travel"/>
+      <file name="progect.css" crc="126221301" ref="tablet>progect"/>
+      <file name="web.css" crc="65142040" ref="tablet>web"/>
+      <file name="index.css" crc="3990201760" ref="tablet>index"/>
       <file name="graf.css" crc="4061105129" ref="tablet>graf"/>
       <file name="nomq_graf.css" crc="3824530138" ref="tablet>graf"/>
       <file name="ya.css" crc="276137245" ref="tablet>ya"/>
-      <file name="web.css" crc="65142040" ref="tablet>web"/>
-      <file name="index.css" crc="3990201760" ref="tablet>index"/>
-      <file name="progect.css" crc="126221301" ref="tablet>progect"/>
-      <file name="travel.css" crc="350290212" ref="tablet>travel"/>
-      <file name="love.css" crc="80515795" ref="tablet>love"/>
       <file name="hate.css" crc="4215046907" ref="tablet>hate"/>
+      <file name="love.css" crc="80515795" ref="tablet>love"/>
     </folder>
     <file name="index.html" crc="95354819" seo="true" mt="1539179905987" redirect="true"/>
     <file name="ya.html" crc="487773957" seo="true" mt="1539197099178" redirect="true"/>
@@ -167,31 +167,31 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="progect.css" crc="3852626891" ref="phone>progect"/>
-      <file name="travel.css" crc="4121845088" ref="phone>travel"/>
-      <file name="love.css" crc="500887171" ref="phone>love"/>
+      <file name="ya.css" crc="4257905730" ref="phone>ya"/>
       <file name="index.css" crc="360935631" ref="phone>index"/>
       <file name="hate.css" crc="429078833" ref="phone>hate"/>
       <file name="graf.css" crc="135990943" ref="phone>graf"/>
       <file name="nomq_graf.css" crc="3824530138" ref="phone>graf"/>
-      <file name="ya.css" crc="4257905730" ref="phone>ya"/>
+      <file name="travel.css" crc="4121845088" ref="phone>travel"/>
+      <file name="progect.css" crc="3852626891" ref="phone>progect"/>
       <file name="web.css" crc="3758960555" ref="phone>web"/>
+      <file name="love.css" crc="500887171" ref="phone>love"/>
     </folder>
     <file name="index.html" crc="289161716" seo="true" mt="1539195701428" redirect="true"/>
     <file name="ya.html" crc="459364748" seo="true" mt="1539197063571" redirect="true"/>
     <file name="hate.html" crc="200161949" seo="true" mt="1539197073570" redirect="true"/>
     <file name="love.html" crc="4089481107" seo="true" mt="1539197085491" redirect="true"/>
     <file name="travel.html" crc="90410867" seo="true" mt="1539197055383" redirect="true"/>
-    <file name="progect.html" crc="3773280139" seo="true" mt="1539184298032" redirect="true"/>
+    <file name="progect.html" crc="4277698386" seo="true" mt="1539200769407" redirect="true"/>
     <file name="web.html" crc="292313345" seo="true" mt="1539195081963" redirect="true"/>
     <file name="graf.html" crc="3792678247" seo="true" mt="1539195089282" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3995406164" seo="true" mt="1539196527428" redirect="true"/>
-  <file name="ya.html" crc="253915965" seo="true" mt="1539196496927" redirect="true"/>
-  <file name="progect.html" crc="3784505525" seo="true" mt="1539196496927" redirect="true"/>
-  <file name="travel.html" crc="4045297584" seo="true" mt="1539197016465" redirect="true"/>
-  <file name="love.html" crc="261859884" seo="true" mt="1539196496927" redirect="true"/>
-  <file name="hate.html" crc="350158993" seo="true" mt="1539196496927" redirect="true"/>
-  <file name="web.html" crc="343150689" seo="true" mt="1539196496927" redirect="true"/>
-  <file name="graf.html" crc="4212990393" seo="true" mt="1539196496927" redirect="true"/>
+  <file name="index.html" crc="19354578" seo="true" mt="1539196527428" redirect="true"/>
+  <file name="ya.html" crc="230502712" seo="true" mt="1539196496927" redirect="true"/>
+  <file name="progect.html" crc="3869673970" seo="true" mt="1539196496927" redirect="true"/>
+  <file name="travel.html" crc="389351158" seo="true" mt="1539197016465" redirect="true"/>
+  <file name="love.html" crc="392018784" seo="true" mt="1539196496927" redirect="true"/>
+  <file name="hate.html" crc="3762219687" seo="true" mt="1539196496927" redirect="true"/>
+  <file name="web.html" crc="20347268" seo="true" mt="1539196496927" redirect="true"/>
+  <file name="graf.html" crc="3802098040" seo="true" mt="1539196496927" redirect="true"/>
 </manifest>
